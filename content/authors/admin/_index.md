@@ -74,7 +74,7 @@ highlight_name: false
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I am a third year PhD student in the Graduate Group in Biostatistics [GGB](https://biostat.wiscweb.wisc.edu/). My advisor is [Prof. Fushing Hsieh](https://statistics.ucdavis.edu/people/fushing-hsieh) and [Prof. Debashis Paul](https://statistics.ucdavis.edu/people/debashis-paul). 
+I am a third year PhD student in the Graduate Group in Biostatistics [GGB](https://biostatistics.ucdavis.edu/). My advisor is [Prof. Fushing Hsieh](https://statistics.ucdavis.edu/people/fushing-hsieh) and [Prof. Debashis Paul](https://statistics.ucdavis.edu/people/debashis-paul). 
 
 My research focuses on Machine Learning, Data mining and statistical modeling.
 
