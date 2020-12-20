@@ -7,7 +7,7 @@ image:
 links:
 summary: Develop a method for analyzing the variability in smooth, possibly nonlinear, functionals associated with a set of growth trajectories measured under different experimental conditions.
 tags:
-- regrssion
+- regression
 - bootstrap
 title: Analysis of variability of functionals of growth trajectories based on limited data
 
