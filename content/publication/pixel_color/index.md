@@ -1,18 +1,18 @@
 +++
-abstract = "The win ratio is gaining traction as a simple and intuitive approach to analysis of prioritized composite endpoints in clinical trials. To extend it from two-sample comparison to regression, we propose a novel class of semi- parametric models that includes as special cases both the two-sample win ratio and the traditional Cox proportional hazards model on time to the first event. Under the assumption that the covariate-specific win and loss fractions are proportional over time, the regression parameter can be interpreted as the log win ratio associated with one-unit increase in the covariate and is unrelated to the censoring distribution. A class of U-statistic estimating functions, in the form of an arbitrary covariate-specific weight process integrated by a pairwise residual process, is constructed to obtain consistent estimators for the regression parameter. The asymptotic properties of the estimators are derived using uniform weak convergence theory for U-processes. Visual inspection of a “score” process provides useful clues as to the plausibility of the proportionality assumption. Extensive numerical studies using both simulated and real data from a major cardiovascular trial show that the multiple regression methods provide valid inference on covariate effects and outperform the two-sample win ratio in both efficiency and robustness. The proposed methodology is implemented in the R-package WR publicly available from the Comprehensive R Archive Network (CRAN)."
+abstract = "Targeted color-dots with varying shapes and sizes in images are first exhaustively identified, and then their multiscale 2D geometric patterns are extracted for testing spatial uniformness in a progressive fashion. Based on color theory in physics, we develop a new color-identification algorithm relying on highly associative relations among the three color-coordinates: RGB or HSV. Such high associations critically imply low color-complexity of a color image and render potentials of exhaustive identification of targeted color-dots of all shapes and sizes. Via heterogeneous shaded regions and lighting conditions, our algorithm is shown to be robust, practical and efficient compared with the popular Contour and OpenCV approaches. Upon all identified color-pixels, we form color-dots as individually connected networks with shapes and sizes. We construct minimum spanning trees (MST) as spatial geometries of dot-collectives of various size-scales. We extract the distributions of distances among connected nodes in the observed MST and simulated MSTs which are generated under the spatial uniformness assumption. We devise a new algorithm for testing 2D spatial uniformness based on a Hierarchical clustering tree upon all involving MSTs. Our developments are illustrated on images obtained by mimicking chemical spraying via drone in Precision Agriculture."
 
-authors = ["Lu Mao", "**Tuo Wang**"]
-date = "2020-09-24"
+authors = ["Shuting Liao", "Li-Yu Liu", "Ting-An Chen", "Kuang-Yu Chen", "Fushing Hsieh"]
+date = "2020-10-14"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "In *Biometrics*"
+publication = "Under Review"
 publication_short = ""
 selected = false
-title = "A Class of Proportional Win-Fractions Regression Models for Composite Outcomes"
-url_code = "https://cran.r-project.org/web/packages/WR/index.html"
+title = "Color-complexity enabled exhaustive color-dots identification and spatial patterns testing in images"
+url_code = ""
 url_dataset = ""
-url_pdf = "https://onlinelibrary.wiley.com/doi/10.1111/biom.13382"
+url_pdf = "https://arxiv.org/abs/2007.14485"
 url_project = ""
 url_slides = ""
 url_video = ""
