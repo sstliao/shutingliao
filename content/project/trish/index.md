@@ -2,7 +2,7 @@
 date: "2020-12-19T00:00:00Z"
 external_link: ""
 image:
-  caption: 
+  caption: time-to-harvests of different treatments
   focal_point: Smart
 links:
 summary: Develop a method for analyzing the variability in smooth, possibly nonlinear, functionals associated with a set of growth trajectories measured under different experimental conditions.
