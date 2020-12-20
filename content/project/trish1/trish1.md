@@ -5,7 +5,7 @@ image:
   caption: Figure 2 in Luo et al (2014). An Alternative Approach to Confidence Interval Estimation for the Win Ratio Statistic
   focal_point: Smart
 links:
-summary: develop a method for analyzing the variability in smooth, possibly nonlinear, functionals associated with a set of growth trajectories measured under different experimental conditions.
+summary: Develop a method for analyzing the variability in smooth, possibly nonlinear, functionals associated with a set of growth trajectories measured under different experimental conditions.
 tags:
 - regression
 - bootstrap
