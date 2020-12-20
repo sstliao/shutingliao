@@ -56,7 +56,7 @@ social:
   link: https://github.com/sstliao
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/shuting622liao/
+  link: https://www.linkedin.com/in/shuting622liao/
   
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
