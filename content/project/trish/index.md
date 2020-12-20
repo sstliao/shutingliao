@@ -1,5 +1,5 @@
 ---
-date: "2020-20-19T00:00:00Z"
+date: "2020-12-19T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -15,10 +15,6 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
----
-
-This is a joint work with Kantharakorn Macharoen, under the supervision of Karen McDonald, Somen Nandi and Debashis Paul. This project is in progress. 
-
 # Here are the [Notes](https://ttuowang.github.io/causal-inference-notes/).
 
 # Recommended textbook:
@@ -26,3 +22,8 @@ This is a joint work with Kantharakorn Macharoen, under the supervision of Karen
 # - Paul Rosenbaum. “Design of OBservational Studies” (2010)
 # - Miguel Hernan & James Robins. “Causal Inference” (2019)
 # - Guido Imbens and Don Rubin. “Causal Inference for Statistics, Social, and Biomedical Sciences” (2015)
+
+---
+
+This is a joint work with Kantharakorn Macharoen, under the supervision of Karen McDonald, Somen Nandi and Debashis Paul. This project is in progress. 
+
