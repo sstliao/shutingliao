@@ -7,8 +7,10 @@ image:
 links:
 summary: Apply a nonparametric stochastic dynamics model in discrete time for describing the evolution of the COVID-19 pandemic through a system of linear Ordinary Difference Equations that represents the various states or stages of the disease.
 tags:
-- regression
+- semiparametric
+- linear ordinary difference equations
 - bootstrap
+- COVID-19
 title: Inference on the dynamics of the COVID pandemic from observational data
 
 url_code: ""
