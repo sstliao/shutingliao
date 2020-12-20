@@ -1,19 +1,29 @@
 ---
-date: "2020-04-27T00:00:00Z"
+date: "2020-12-19T00:00:00Z"
 external_link: ""
 image:
-  caption: Figure 2 in Luo et al (2014). An Alternative Approach to Confidence Interval Estimation for the Win Ratio Statistic
+  caption: time-to-harvests of different treatments
   focal_point: Smart
 links:
-summary: Develop a semiparametric proportional win fractions (PWF) regression framework for (prioritized) composite endpoints.
+summary: Apply a nonparametric stochastic dynamics model in discrete time for describing the evolution of the COVID-19 pandemic through a system of linear Ordinary Difference Equations that represents the various states or stages of the disease.
 tags:
-- Survival Analysis
-- Clinical Trial
-title: Proportional win-fractions regression (win ratio regression)
-url_code: "https://cran.r-project.org/web/packages/WR/index.html"
-url_pdf: "https://onlinelibrary.wiley.com/doi/10.1111/biom.13382"
+- regression
+- bootstrap
+title: Inference on the dynamics of the COVID pandemic from observational data
+
+url_code: ""
+url_pdf: ""
 url_slides: ""
 url_video: ""
+# Here are the [Notes](https://ttuowang.github.io/causal-inference-notes/).
+
+# Recommended textbook:
+
+# - Paul Rosenbaum. “Design of OBservational Studies” (2010)
+# - Miguel Hernan & James Robins. “Causal Inference” (2019)
+# - Guido Imbens and Don Rubin. “Causal Inference for Statistics, Social, and Biomedical Sciences” (2015)
+
 ---
 
-The win ratio is gaining traction as a simple and intuitive approach to analysis of prioritized composite endpoints in clinical trials. To extend it from two-sample comparison to regression, we propose a novel class of semi- parametric models that includes as special cases both the two-sample win ratio and the traditional Cox proportional hazards model on time to the first event. Under the assumption that the covariate-specific win and loss fractions are proportional over time, the regression parameter can be interpreted as the log win ratio associated with one-unit increase in the covariate and is unrelated to the censoring distribution. A class of U-statistic estimating functions, in the form of an arbitrary covariate-specific weight process integrated by a pairwise residual process, is constructed to obtain consistent estimators for the regression parameter. The asymptotic properties of the estimators are derived using uniform weak convergence theory for U-processes. Visual inspection of a “score” process provides useful clues as to the plausibility of the proportionality assumption. Extensive numerical studies using both simulated and real data from a major cardiovascular trial show that the multiple regression methods provide valid inference on covariate effects and outperform the two-sample win ratio in both efficiency and robustness. The proposed methodology is implemented in the R-package WR publicly available from the Comprehensive R Archive Network (CRAN).
+This is a joint work with Satarupa Bhattacharjee, under the supervision of Debashis Paul and Sanjay Chaudhuri. This project is in progress. 
+
