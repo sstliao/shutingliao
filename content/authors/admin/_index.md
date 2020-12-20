@@ -74,6 +74,6 @@ highlight_name: false
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I am a third year Ph.D. student in the Graduate Group in Biostatistics [GGB](https://biostatistics.ucdavis.edu/) at University of California-Davis. My advisor is [Prof. Fushing Hsieh](https://statistics.ucdavis.edu/people/fushing-hsieh) and [Prof. Debashis Paul](https://statistics.ucdavis.edu/people/debashis-paul). Prior to UCD, I completed my M.S. in [statistics](https://lsa.umich.edu/stats) at University of Michigan-Ann Arbor. I particularly enjoy uncovering the stories that underlie complex real world data. I'm broadly interested in machine Learning, data mining, (parametric and nonparametric) statistical modeling and sampling procedures.
+I am a third year Ph.D. student in the Graduate Group in Biostatistics ([GGB](https://biostatistics.ucdavis.edu/)) at University of California-Davis. My advisor is [Prof. Fushing Hsieh](https://statistics.ucdavis.edu/people/fushing-hsieh) and [Prof. Debashis Paul](https://statistics.ucdavis.edu/people/debashis-paul). Prior to UCD, I completed my M.S. in [statistics](https://lsa.umich.edu/stats) at University of Michigan-Ann Arbor. I particularly enjoy uncovering the stories that underlie complex real world data. I'm broadly interested in machine Learning, data mining, (parametric and nonparametric) statistical modeling and sampling procedures.
 
 
