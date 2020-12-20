@@ -1,14 +1,15 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2020-20-19T00:00:00Z"
 external_link: ""
 image:
   caption: 
   focal_point: Smart
 links:
-summary: Notes about some the key topics in causal inferene. 
+summary: Develop a method for analyzing the variability in smooth, possibly nonlinear, functionals associated with a set of growth trajectories measured under different experimental conditions.
 tags:
-- Causal Inference
-title: Causal Inference Notes
+- regrssion
+- bootstrap
+title: Analysis of variability of functionals of growth trajectories based on limited data
 
 url_code: ""
 url_pdf: ""
@@ -16,12 +17,12 @@ url_slides: ""
 url_video: ""
 ---
 
-I summarized the notes about some key topics in Causal Inference. Most of the materials come from STAT 992 in UW-Madison instructed by Prof. Kang and from several textbooks in causal inference.
+This is a joint work with Kantharakorn Macharoen, under the supervision of Karen McDonald, Somen Nandi and Debashis Paul. This project is in progress. 
 
-Here are the [Notes](https://ttuowang.github.io/causal-inference-notes/).
+# Here are the [Notes](https://ttuowang.github.io/causal-inference-notes/).
 
-Recommended textbook:
+# Recommended textbook:
 
-- Paul Rosenbaum. “Design of OBservational Studies” (2010)
-- Miguel Hernan & James Robins. “Causal Inference” (2019)
-- Guido Imbens and Don Rubin. “Causal Inference for Statistics, Social, and Biomedical Sciences” (2015)
+# - Paul Rosenbaum. “Design of OBservational Studies” (2010)
+# - Miguel Hernan & James Robins. “Causal Inference” (2019)
+# - Guido Imbens and Don Rubin. “Causal Inference for Statistics, Social, and Biomedical Sciences” (2015)
