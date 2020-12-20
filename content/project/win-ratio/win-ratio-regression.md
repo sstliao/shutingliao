@@ -10,8 +10,8 @@ tags:
 - Survival Analysis
 - Clinical Trial
 title: Proportional win-fractions regression (win ratio regression)
-url_code: "https://cran.r-project.org/web/packages/WR/index.html"
-url_pdf: "https://onlinelibrary.wiley.com/doi/10.1111/biom.13382"
+url_code: ""
+url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
