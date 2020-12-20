@@ -16,4 +16,4 @@ url_slides: ""
 url_video: ""
 ---
 
-This is a joint work with Kantharakorn Macharoen†, under supervision of Karen McDonald, Somen Nandi and Debashis Paul. This project is in progress. 
+This is a joint work with Kantharakorn Macharoen, under the supervision of Karen McDonald, Somen Nandi and Debashis Paul. This project is in progress. 
