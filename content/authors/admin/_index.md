@@ -27,15 +27,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Biostatistics
+  - course: Ph.D. in Biostatistics
     institution: University of California-Davis
     year: 2018 - (in progress)
-  - course: MS in Statistics
+  - course: M.S. in Statistics
     institution: University of Michigan-Ann Arbor
     year: 2016 - 2018
-  - course: BS in Mathematics
-    institution: Sichuan University 
-    year: 2012 - 2016
+#  - course: B.S. in Mathematics
+#    institution: Sichuan University 
+#    year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -74,8 +74,6 @@ highlight_name: false
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I am a third year PhD student in the Graduate Group in Biostatistics [GGB](https://biostatistics.ucdavis.edu/). My advisor is [Prof. Fushing Hsieh](https://statistics.ucdavis.edu/people/fushing-hsieh) and [Prof. Debashis Paul](https://statistics.ucdavis.edu/people/debashis-paul). 
-
-My research focuses on Machine Learning, Data mining and statistical modeling.
+I am a third year Ph.D. student in the Graduate Group in Biostatistics [GGB](https://biostatistics.ucdavis.edu/). My advisor is [Prof. Fushing Hsieh](https://statistics.ucdavis.edu/people/fushing-hsieh) and [Prof. Debashis Paul](https://statistics.ucdavis.edu/people/debashis-paul). Prior to coming to UCD, I completed my M.S. in statistics at [University of Michigan](https://lsa.umich.edu/stats). I particularly enjoy uncovering the stories that underlie complex real world data. I'm broadly interested in machine Learning, data mining, (parametric and nonparametric) statistical modeling and sampling procedures.
 
 
