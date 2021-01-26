@@ -33,9 +33,9 @@ education:
   - course: M.S. in Statistics
     institution: University of Michigan-Ann Arbor
     year: 2016 - 2018
-#  - course: B.S. in Mathematics
-#    institution: Sichuan University 
-#    year: 2012 - 2016
+  - course: B.S. in Mathematics
+    institution: Sichuan University 
+    year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
