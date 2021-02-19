@@ -14,7 +14,7 @@ tags:
 title: Inference on the dynamics of the COVID pandemic from observational data
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.medrxiv.org/content/10.1101/2021.02.01.21250936v1"
 url_slides: ""
 url_video: ""
 # Here are the [Notes](https://ttuowang.github.io/causal-inference-notes/).
