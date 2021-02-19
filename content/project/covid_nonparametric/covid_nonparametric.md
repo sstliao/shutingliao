@@ -13,7 +13,7 @@ tags:
 - COVID-19
 title: Inference on the dynamics of the COVID pandemic from observational data
 
-url_code: ""
+url_code: "https://github.com/Satarupa3671/COVID-19-Nonparametric-Inference"
 url_pdf: "https://www.medrxiv.org/content/10.1101/2021.02.01.21250936v1"
 url_slides: ""
 url_video: ""
