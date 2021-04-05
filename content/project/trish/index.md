@@ -12,7 +12,7 @@ tags:
 title: Analysis of variability of functionals of growth trajectories based on limited data
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.biorxiv.org/content/10.1101/2021.04.04.438346v1"
 url_slides: ""
 url_video: ""
 # Here are the [Notes](https://ttuowang.github.io/causal-inference-notes/).
