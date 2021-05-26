@@ -6,19 +6,19 @@ date = "2020-10-14"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "Under Review"
+publication = "PLoS One"
 publication_short = ""
 selected = false
 title = "Color-complexity enabled exhaustive color-dots identification and spatial patterns testing in images"
 url_code = ""
 url_dataset = ""
-url_pdf = "https://arxiv.org/abs/2007.14485"
+url_pdf = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251258"
 url_project = ""
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "View Journal Article"
-url = "https://onlinelibrary.wiley.com/doi/10.1111/biom.13382"
+url = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251258"
 
 +++
