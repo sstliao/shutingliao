@@ -21,8 +21,9 @@ interests:
 - Machine Learning
 - Data mining
 - Visualization
+- ANOVA
 - Statistical Modeling
-- Sampling
+- Bootstrap Sampling
 
 # Education to show in About widget
 education:
