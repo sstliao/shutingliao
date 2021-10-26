@@ -1,24 +1,24 @@
 +++
-abstract = "Targeted color-dots with varying shapes and sizes in images are first exhaustively identified, and then their multiscale 2D geometric patterns are extracted for testing spatial uniformness in a progressive fashion. Based on color theory in physics, we develop a new color-identification algorithm relying on highly associative relations among the three color-coordinates: RGB or HSV. Such high associations critically imply low color-complexity of a color image and render potentials of exhaustive identification of targeted color-dots of all shapes and sizes. Via heterogeneous shaded regions and lighting conditions, our algorithm is shown to be robust, practical and efficient compared with the popular Contour and OpenCV approaches. Upon all identified color-pixels, we form color-dots as individually connected networks with shapes and sizes. We construct minimum spanning trees (MST) as spatial geometries of dot-collectives of various size-scales. We extract the distributions of distances among connected nodes in the observed MST and simulated MSTs which are generated under the spatial uniformness assumption. We devise a new algorithm for testing 2D spatial uniformness based on a Hierarchical clustering tree upon all involving MSTs. Our developments are illustrated on images obtained by mimicking chemical spraying via drone in Precision Agriculture."
+abstract = ""Paintings fade like flowers": van Gogh's prediction on the impact of age on paintings came true for most of his paintings. We have studied the consequences of this aging on the \emph{Sunflowers in a vase with a yellow background} series, namely its original, F454, currently in London, and two replicates, F457, in Tokyo, and F458, in Amsterdam, which van Gogh painted using the original as a model. The background and flower renditions in those paintings have faded and turned brown, making them less vibrant that van Gogh had most likely intended. We have attempted to restore van Gogh's intent using a computational approach based on data science. After identifications of regions of interest (ROI) within the three paintings F454, F457, and F458 that capture the flowers, stems of the flowers, and background, respectively, we studied the geometry of the color space (in RGB representation) occupied by those ROIs. By comparing those color spaces with those occupied by similar ROIs in photographs of real sunflowers, we identified shifts in all three color coordinates, R, G, and B, with the positive shift in the blue coordinate being the more salient. We have proposed two algorithms, PCR-1 and PCR-2, for correcting that shift in blue and generate representations of the paintings that aim to restore their original conditions. The reduction of the blue component in the yellow hues has lead to more vibrant and less brownish digital rendition of the three Sunflowers in a vase with a yellow background"
 
-authors = ["Shuting Liao", "Li-Yu Liu", "Ting-An Chen", "Kuang-Yu Chen", "Fushing Hsieh"]
-date = "2021-5-11"
+authors = ["Shuting Liao", "Patrice Koehl", "Jennifer Schultens", "Kuang-Yu Chen", "Fushing Hsieh"]
+date = "2021-10-25"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "PLoS One"
+publication = "Heritage Science"
 publication_short = ""
 selected = false
-title = "Color-complexity enabled exhaustive color-dots identification and spatial patterns testing in images"
+title = "The geometry of colors in van Gogh's Sunflowers"
 url_code = ""
 url_dataset = ""
-url_pdf = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251258"
+url_pdf = "https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-021-00608-y"
 url_project = ""
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "View Journal Article"
-url = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251258"
+url = "https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-021-00608-y"
 
 +++
