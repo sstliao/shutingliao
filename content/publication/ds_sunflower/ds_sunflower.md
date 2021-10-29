@@ -13,7 +13,7 @@ title = "The geometry of colors in van Gogh's Sunflowers"
 url_code = ""
 url_dataset = ""
 url_pdf = "https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-021-00608-y"
-url_project = ""
+url_project = "https://stliaoshiny.shinyapps.io/sunflower_color_geometry/"
 url_slides = ""
 url_video = ""
 
