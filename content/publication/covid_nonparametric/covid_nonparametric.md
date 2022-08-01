@@ -1,5 +1,5 @@
 ---
-date: "2020-12-19T00:00:00Z"
+date: "2022-2-19T00:00:00Z"
 external_link: ""
 image:
   caption: time-to-harvests of different treatments
@@ -14,7 +14,7 @@ tags:
 title: Inference on the dynamics of the COVID pandemic from observational data
 
 url_code: "https://github.com/Satarupa3671/COVID-19-Nonparametric-Inference"
-url_pdf: "https://www.medrxiv.org/content/10.1101/2021.02.01.21250936v1"
+url_pdf: "https://www.nature.com/articles/s41598-021-04494-z"
 url_slides: ""
 url_video: ""
 # Here are the [Notes](https://ttuowang.github.io/causal-inference-notes/).
