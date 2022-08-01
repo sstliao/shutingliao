@@ -18,12 +18,14 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Data mining
-- Visualization
 - ANOVA
 - Statistical Modeling
 - Bootstrap Sampling
+- Bayesian
+- Machine Learning
+- Visualization
+
+
 
 # Education to show in About widget
 education:
