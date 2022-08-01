@@ -1,5 +1,5 @@
 ---
-date: "2020-04-27T00:00:00Z"
+date: "2022-01-27T00:00:00Z"
 external_link: ""
 image:
  # caption: Figure 2 in Luo et al (2014). An Alternative Approach to Confidence Interval Estimation for the Win Ratio Statistic
@@ -13,7 +13,7 @@ tags:
 - Vaccination
 title: Taming the pandemic by doing the mundane
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003218807-6/taming-pandemic-mundane-satarupa-bhattacharjee-shuting-liao-debashis-paul-sanjay-chaudhuri"
 url_slides: ""
 url_video: ""
 ---
