@@ -19,7 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - ANOVA
-- Statistical Modeling
+- Categorical Data Analysis
 - Bootstrap Sampling
 - Bayesian
 - Machine Learning
@@ -77,6 +77,6 @@ highlight_name: false
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I am a 4th year Ph.D. student in the Graduate Group in biostatistics ([GGB](https://biostatistics.ucdavis.edu/)) at the University of California-Davis. I'm under the supervision of [Prof. Fushing Hsieh](https://statistics.ucdavis.edu/people/fushing-hsieh) and [Prof. Debashis Paul](https://statistics.ucdavis.edu/people/debashis-paul). Prior to UCD, I completed my M.S. in [statistics](https://lsa.umich.edu/stats) at the University of Michigan-Ann Arbor. I particularly enjoy uncovering the stories that underlie complex real-world data. I'm broadly interested in Machine Learning, data mining, (parametric and nonparametric) statistical modeling, and sampling procedures.
+I am a 5th year Ph.D. student in the Graduate Group in biostatistics ([GGB](https://biostatistics.ucdavis.edu/)) at the University of California-Davis. I'm under the supervision of [Prof. Fushing Hsieh](https://statistics.ucdavis.edu/people/fushing-hsieh) and [Prof. Debashis Paul](https://statistics.ucdavis.edu/people/debashis-paul). Prior to UCD, I completed my M.S. in [statistics](https://lsa.umich.edu/stats) at the University of Michigan-Ann Arbor. I particularly enjoy uncovering the stories that underlie complex real-world data. I'm broadly interested in Machine Learning, data mining, (parametric and nonparametric) statistical modeling, and sampling procedures.
 
 
